@@ -1,11 +1,11 @@
 /*SMALL PHONES & TABLETS : FROM 0px TO 767px*/
 @media only screen and (max-width: 767px){
-    #box1{
+    .box1{
         width: 99%;
         height: 120%;
     }
 
-    #box2{
+    .box2{
         width: 99%;
         height: 600px;
     }
